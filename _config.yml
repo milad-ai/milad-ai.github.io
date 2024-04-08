@@ -9,7 +9,7 @@ version: 2
 name: Milad Vazan
 title: Deep Learning Researcher
 email: vazanmilad@gmail.com
-website: milad-ai.github.io
+website: mr-relu.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -27,7 +27,7 @@ linkedin_username: miladvazan
 additional_links:
 - title: Milad Vazan
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.miladvazan.ir
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
