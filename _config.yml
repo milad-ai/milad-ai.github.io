@@ -42,9 +42,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/IMG_20240129_234127_338.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Milad and I'm a ..
+  
+  Milad Vazan is a dedicated <mark>deep learning researcher</mark> and <mark>author</mark>, specializing in Soft Computing and Artificial Intelligence. With a Bachelor's Degree in Computer Engineering (Software) and a Master's Degree in Computer Science, his research efforts are focused on developing robust neural network architectures and efficient training algorithms. Milad has also authored valuable books in <mark>Persian</mark> on deep learning and machine learning, catering to the needs of Persian-speaking readers.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -84,13 +84,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title:  University of Tabriz
+        caption: 2018 - 2020
+        sub_title: MASTER DEGREE OF COMPUTER SCIENCE
         quote: >
-         ...
+         Soft computing and artificial intelligence
         description: | # this will include new lines to allow paragraphs
-          ...
+          THESIs: sentiment analysis of social media users for opinions polarity detection using deep learning techniques.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
