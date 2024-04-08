@@ -90,7 +90,7 @@ content:
         quote: >
          Soft computing and artificial intelligence
         description: | # this will include new lines to allow paragraphs
-          THESIs: sentiment analysis of social media users for opinions polarity detection using deep learning techniques.
+          THESIS: sentiment analysis of social media users for opinions polarity detection using deep learning techniques.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
