@@ -59,6 +59,14 @@ content:
          Soft computing and artificial intelligence
         description: | # this will include new lines to allow paragraphs
           THESIS: sentiment analysis of social media users for opinions polarity detection using deep learning techniques.
+ - layout: left
+        title:  Shahid Beheshti University (SBU)
+        caption: 2023 - 2027
+        sub_title: Ph.D. Student
+        quote: >
+         Soft computing and artificial intelligence
+  
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
