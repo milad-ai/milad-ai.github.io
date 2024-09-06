@@ -70,8 +70,9 @@ content:
   - title: Skills
     layout: list
     content:
-      - PyTorch
-      - Keras
+    description: | # this will include new lines to allow paragraphs
+   <mark>PyTorch</mark> <mark>Keras</mark>      
+    
 
 
 footer_show_references: true
