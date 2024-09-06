@@ -73,14 +73,6 @@ content:
       - PyTorch
       - Keras
 
-    - title: Publications
-    layout: list
-    content:
-      - **[Jointly modeling aspect and polarity for aspect-based sentiment analysis in Persian reviews](https://arxiv.org/abs/2109.07680)**
-      - **[Augmenting Vision-Based Human Pose Estimation with Rotation Matrix](https://arxiv.org/abs/2310.06068)**
-      - **[Joint Learning for Aspect and Polarity Classification in Persian Reviews Using Multi-Task Deep Learning](https://miladvazan.github.io/publications/Joint%20Learning.pdf)**
-      - **[A Deep Convolutional Neural Networks Based Multi-task Ensemble Model for Aspect and Polarity Classification in Persian](https://www.researchgate.net/profile/Milad-Vazan/publication/363056061_A_Deep_Convolutional_Neural_Networks_Based_Multi-Task_Ensemble_Model_for_Aspect_and_Polarity_Classification_in_Persian_Reviews/links/630ca4c161e4553b9549be67/A-Deep-Convolutional-Neural-Networks-Based-Multi-Task-Ensemble-Model-for-Aspect-and-Polarity-Classification-in-Persian-Reviews.pdf)**
-      - **[Leveraging LDA Feature Extraction to Augment Human Activity Recognition Accuracy](https://www.preprints.org/manuscript/202406.1528)**
 
 footer_show_references: true
 # references_title: References on request (Override references text)
