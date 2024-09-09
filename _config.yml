@@ -70,8 +70,10 @@ content:
   - title: Skills
     layout: list
     content:
-    description: | # this will include new lines to allow paragraphs
-   <mark>PyTorch</mark> <mark>Keras</mark>      
+      - layout: left
+        title:  <mark>PyTorch</mark> <mark>Keras</mark>
+    
+         
     
 
 
