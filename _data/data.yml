@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                    "https://github.com/milad-ai"
+  github:                   #https://github.com/<milad-ai>
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -40,7 +40,7 @@ contact:
   # research
   googlescholar:            "https://scholar.google.com/citations?user=ynrOR0MAAAAJ&hl=en"
   researchgate:             "https://www.researchgate.net/profile/Milad-Vazan"
-  orcid:                    "https://orcid.org/0000-0002-4008-7820"
+  orcid:                    # https://orcid.org/<0000-0002-4008-7820>
   figshare:                 # https://figshare.com/authors/<name/id>
   kaggle:                   # https://www.kaggle.com/<username>
 
