@@ -1,0 +1,234 @@
+meta:
+  direction: ltr            # text direction, "ltr" (like English) or "rtl" (like Arabic), default is "ltr"
+  language: en              # text language, the value is HTML lang attribute value, default is "en"
+
+basic:
+  name: Foo Bar                      # name
+  title: Backend Developer           # job title 
+  avatar:
+    show: true                       # show or hide avatar
+    path: /assets/images/profile.jpg # file path or link to your avatar
+
+contact:
+  location: Tehran, IRAN  # location, text or markdown link syntax
+  email: vazanmilad@gmail.com     # email address
+  phone: +98-9370174459  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: miladvazan.ir     # site link without schema, like example.com, will automatically prepend "https://"
+
+  gender:                   He/him
+  birthday:                 1992
+  nationality:              Iranian
+  visa:                     # passport visa
+  drivinglicense:           # driving licence
+
+  # ! Do not paste the link directly.
+  # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
+
+  # programming
+  github:                    https://github.com/milad-ai
+  gitlab:                   # https://gitlab.com/<username>
+  bitbucket:                # https://bitbucket.com/<username>
+  git:                      # selfhost git site link without schema "https://"
+  leetcode:                 # https://leetcode.com/<username>
+  codeforces:               # https://codeforces.com/profile/<username>
+  codewars:                 # https://www.codewars.com/users/<username>
+  topcoder:                 # https://profiles.topcoder.com/<username>
+  huggingface:              # https://huggingface.co/<username>
+  codepen:                  # https://codepen.io/<username>
+  tryhackme:                # https://tryhackme.com/p/<username>
+
+  # research
+  googlescholar:            https://scholar.google.com/citations?user=ynrOR0MAAAAJ&hl=en
+  researchgate:             https://www.researchgate.net/profile/Milad-Vazan
+  orcid:                    https://orcid.org/0000-0002-4008-7820
+  figshare:                 # https://figshare.com/authors/<name/id>
+  kaggle:                   # https://www.kaggle.com/<username>
+
+  # writing
+  medium:                   # https://medium.com/@<username>
+  wordpress:                # https://<username>.wordpress.com
+  blogger:                  # https://<username>.blogspot.com
+  devto:                    # https://dev.to/<username>
+
+  # creativity
+  figma:                    # https://www.figma.com/@<username>
+  behance:                  # https://www.behance.net/<username>
+  dribbble:                 # https://dribbble.com/<username>
+  artstation:               # https://www.artstation.com/<username>
+  pixiv:                    # https://www.pixiv.net/users/<id>
+  pinterest:                # https://www.pinterest.com/<username>
+  producthunt:              # https://www.producthunt.com/@<username>
+
+  # cv
+  linkedin:                 https://linkedin.com/in/miladvazan
+  indeed:                   # https://my.indeed.com/p/<id>
+  xing:                     # https://www.xing.com/profile/<username>
+  fiverr:                   # https://www.fiverr.com/<username>
+  freelancer:               # https://www.freelancer.com/u/<username>
+
+  # chat
+  wechat:                   # wechat id, text or markdown link syntax
+  whatsapp:                 https://wa.me/+989370174459
+  telegram:                 https://t.me/vazanmilad
+  messenger:                # https://m.me/<username>
+  line:                     # https://line.me/R/ti/p/@<lineid>
+  viber:                    # https://vb.me/<username>
+  threema:                  # https://threema.id/<userid>
+  signal:                   # signal username, text or markdown link syntax
+  wire:                     # wire username, text or markdown link syntax
+
+  # social
+  stackoverflow:            # https://stackoverflow.com/users/<id>
+  stackexchange:            # https://stackexchange.com/users/<id>
+  quora:                    # https://www.quora.com/profile/<username>
+  zhihu:                    # https://www.zhihu.com/people/<username>
+  goodreads:                # https://www.goodreads.com/user/show/<username>
+  strava:                   # https://www.strava.com/athletes/<id>
+  wikipedia:                # https://www.wikipedia.org/wiki/User:<username>
+  twitter:                  https://twitter.com/milad_vazan
+  x:                        # https://x.com/<username>
+  mastodon:                 # text, the format must be like "username@yourserver.com"
+  threads:                  # https://www.threads.net/@<username>
+  vk:                       # https://vk.com/<username>
+  weibo:                    # weibo username, text or markdown link syntax
+  instagram:                # https://instagram.com/<username>
+  unsplash:                 # https://unsplash.com/@<username>
+  _500px:                   # https://500px.com/p/<username>
+  youtube:                  # https://www.youtube.com/@<username>
+  tiktok:                   # https://www.tiktok.com/@<username>
+  snapchat:                 # https://www.snapchat.com/add/<username>
+  twitch:                   # https://www.twitch.tv/<username>
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+
+
+
+
+
+skill:
+  show: true
+  order: 4
+  title: Skills
+  description: |
+
+  items:
+    - name: Skill A
+      level: 5
+    - name: Skill B
+      level: 4
+    - name: Skill C
+      level: 3
+    - name: Skill D
+      level: 4
+    - name: Skill E
+      level: 3
+    - name: Skill F
+      level: 1
+    - name: Skill G
+      level: 4
+    - name: Skill H
+      level: 4
+    - name: Skill I
+      level: 3
+
+  groups:
+    - name: Group A Skills
+      item:
+        - Skill A
+        - Skill B
+        - Skill C
+        - Skill D
+    - name: Group B Skills
+      item:
+        - Skill E
+        - Skill F
+        - Skill G
+    - name: Group C Skills
+      item:
+        - Skill H
+        - Skill I
+
+education:
+  show: true
+  order: 5
+  title: Education
+  description: |
+  items:
+    - institution: Shahid Beheshti University
+      link: 
+      date: 2023 - 2027
+      major: Computer Science - Soft Computing and Artificial Intelligence
+      degree: Ph.D
+      description: |
+        Cumulative GPA: 18.94/20
+
+
+    - institution: University of Tabriz
+      link:
+      date: 2018 - 2020
+      major: Computer Science - Soft Computing and Artificial Intelligence
+      degree: M.S.
+      description: |
+        Cumulative GPA: 19.02/20
+        + Ranked 1st among M.S students of CS
+        + Selected as the Exceptionally Talented
+
+certificate:
+  show: true
+  order: 6
+  title: Certificates
+  description: |
+ 
+  items:
+    - name: Fundamentals of Reinforcement Learning
+      issuer: Coursera || University of California San Diego 
+      date: June 2021
+      link: '#'
+      description: |
+        T22C2WUKDW7Z
+
+publication:
+  show: true
+  order: 7
+  title: Publications
+  description: |
+ 
+  items:
+    - title: Example Publication in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: '#'
+    - title: The Art of Example Publication
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+
+
+language:
+  show: true
+  order: 11
+  title: Languages
+  description: |
+
+  items:
+    - idiom: Farsi
+      level: Native
+
+interest:
+  show: true
+  order: 12
+  title: Interests
+  description: |
+
+  items:
+    - item: Reading
+      link: 
+    - item: Cooking
+      link:
+
+
+close: <strong>Sorry, my resume has been hidden.</strong>
