@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   https://github.com/<https://github.com/milad-ai>
+  github:                   <milad-ai>
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -117,7 +117,7 @@ skill:
 
   items:
     - name: Skill A
-      level: 5
+      level: 1
     - name: Skill B
       level: 4
     - name: Skill C
