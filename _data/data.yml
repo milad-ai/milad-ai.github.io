@@ -3,8 +3,8 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title 
+  name: Milad Vazan                      # name
+  title: Deep Learning Researcher          # job title 
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.jpg # file path or link to your avatar
@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                    https://github.com/milad-ai
+  github:                    "https://github.com/milad-ai"
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -38,9 +38,9 @@ contact:
   tryhackme:                # https://tryhackme.com/p/<username>
 
   # research
-  googlescholar:            https://scholar.google.com/citations?user=ynrOR0MAAAAJ&hl=en
-  researchgate:             https://www.researchgate.net/profile/Milad-Vazan
-  orcid:                    https://orcid.org/0000-0002-4008-7820
+  googlescholar:            "https://scholar.google.com/citations?user=ynrOR0MAAAAJ&hl=en"
+  researchgate:             "https://www.researchgate.net/profile/Milad-Vazan"
+  orcid:                    "https://orcid.org/0000-0002-4008-7820"
   figshare:                 # https://figshare.com/authors/<name/id>
   kaggle:                   # https://www.kaggle.com/<username>
 
@@ -60,7 +60,7 @@ contact:
   producthunt:              # https://www.producthunt.com/@<username>
 
   # cv
-  linkedin:                 https://linkedin.com/in/miladvazan
+  linkedin:                 "https://linkedin.com/in/miladvazan"
   indeed:                   # https://my.indeed.com/p/<id>
   xing:                     # https://www.xing.com/profile/<username>
   fiverr:                   # https://www.fiverr.com/<username>
@@ -68,8 +68,8 @@ contact:
 
   # chat
   wechat:                   # wechat id, text or markdown link syntax
-  whatsapp:                 https://wa.me/+989370174459
-  telegram:                 https://t.me/vazanmilad
+  whatsapp:                 "https://wa.me/+989370174459"
+  telegram:                 "https://t.me/vazanmilad"
   messenger:                # https://m.me/<username>
   line:                     # https://line.me/R/ti/p/@<lineid>
   viber:                    # https://vb.me/<username>
