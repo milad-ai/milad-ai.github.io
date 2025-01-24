@@ -172,11 +172,17 @@ certificate:
  
   items:
     - name: Fundamentals of Reinforcement Learning
-      issuer: Coursera || University of California San Diego 
+      issuer: Coursera || University of Alberta
       date: June 2021
-      link: '#'
+      link: 'https://www.coursera.org/account/accomplishments/certificate/T22C2WUKDW7Z'
       description: |
-        T22C2WUKDW7Z
+  items:
+    - name: Practical Reinforcement Learning
+      issuer: Coursera || HSE University
+      date: June 2021
+      link: 'https://www.coursera.org/account/accomplishments/certificate/NA3JE479XZXL'
+      description: |
+
 
 publication:
   show: true
