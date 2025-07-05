@@ -10,6 +10,13 @@ basic:
     path: /assets/images/profile.jpg # file path or link to your avatar
 
 contact:
+  
+  
+  gender:                   He/him
+  birthday:                 1992
+  nationality:              Iranian
+  visa:                     # passport visa
+  drivinglicense:           # driving licence
   location: Tehran, IRAN  # location, text or markdown link syntax
   email: vazanmilad@gmail.com     # email address
   phone: +98-9370174459  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
@@ -20,12 +27,9 @@ contact:
   telegram:                 vazanmilad
   twitter:                  milad_vazan
 
-  
-  gender:                   He/him
-  birthday:                 1992
-  nationality:              Iranian
-  visa:                     # passport visa
-  drivinglicense:           # driving licence
+
+
+
 
   # ! Do not paste the link directly.
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
