@@ -145,13 +145,13 @@ publication:
       #conference: Foobar, 2019
       link: https://arxiv.org/pdf/2109.07680
 
-coauthors:
+custom:
   show: true
   order: 8
   title: Co-authors
   description: |
-    - Fatemeh Sadat Masoumi
-    - Dr. Reza Rawassizadeh
+    - Fatemeh Sadat Masoumi  
+    - Dr. Reza Rawassizadeh  
     - Dr. Hadi Farahani
 
 language:
