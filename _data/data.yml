@@ -36,79 +36,10 @@ contact:
 
   # programming
   
-  gitlab:                   # https://gitlab.com/<username>
-  bitbucket:                # https://bitbucket.com/<username>
-  git:                      # selfhost git site link without schema "https://"
-  leetcode:                 # https://leetcode.com/<username>
-  codeforces:               # https://codeforces.com/profile/<username>
-  codewars:                 # https://www.codewars.com/users/<username>
-  topcoder:                 # https://profiles.topcoder.com/<username>
-  huggingface:              # https://huggingface.co/<username>
-  codepen:                  # https://codepen.io/<username>
-  tryhackme:                # https://tryhackme.com/p/<username>
-
-  # research
-  googlescholar:            #"https://scholar.google.com/citations?user=ynrOR0MAAAAJ&hl=en"
-  researchgate:             #"https://www.researchgate.net/profile/Milad-Vazan"
-  orcid:                    # https://orcid.org/<0000-0002-4008-7820>
-  figshare:                 # https://figshare.com/authors/<name/id>
-  kaggle:                   # https://www.kaggle.com/<username>
-
-  # writing
-  medium:                   # https://medium.com/@<username>
-  wordpress:                # https://<username>.wordpress.com
-  blogger:                  # https://<username>.blogspot.com
-  devto:                    # https://dev.to/<username>
-
-  # creativity
-  figma:                    # https://www.figma.com/@<username>
-  behance:                  # https://www.behance.net/<username>
-  dribbble:                 # https://dribbble.com/<username>
-  artstation:               # https://www.artstation.com/<username>
-  pixiv:                    # https://www.pixiv.net/users/<id>
-  pinterest:                # https://www.pinterest.com/<username>
-  producthunt:              # https://www.producthunt.com/@<username>
-
-  # cv
   
-  indeed:                   # https://my.indeed.com/p/<id>
-  xing:                     # https://www.xing.com/profile/<username>
-  fiverr:                   # https://www.fiverr.com/<username>
-  freelancer:               # https://www.freelancer.com/u/<username>
 
-  # chat
-  wechat:                   # wechat id, text or markdown link syntax
-  whatsapp:                 #"https://wa.me/+989370174459"
-  telegram:                 #"https://t.me/vazanmilad"
-  messenger:                # https://m.me/<username>
-  line:                     # https://line.me/R/ti/p/@<lineid>
-  viber:                    # https://vb.me/<username>
-  threema:                  # https://threema.id/<userid>
-  signal:                   # signal username, text or markdown link syntax
-  wire:                     # wire username, text or markdown link syntax
-
-  # social
-  stackoverflow:            # https://stackoverflow.com/users/<id>
-  stackexchange:            # https://stackexchange.com/users/<id>
-  quora:                    # https://www.quora.com/profile/<username>
-  zhihu:                    # https://www.zhihu.com/people/<username>
-  goodreads:                # https://www.goodreads.com/user/show/<username>
-  strava:                   # https://www.strava.com/athletes/<id>
-  wikipedia:                # https://www.wikipedia.org/wiki/User:<username>
-  twitter:                  #https://twitter.com/milad_vazan
-  x:                        # https://x.com/<username>
-  mastodon:                 # text, the format must be like "username@yourserver.com"
-  threads:                  # https://www.threads.net/@<username>
-  vk:                       # https://vk.com/<username>
-  weibo:                    # weibo username, text or markdown link syntax
-  instagram:                # https://instagram.com/<username>
-  unsplash:                 # https://unsplash.com/@<username>
-  _500px:                   # https://500px.com/p/<username>
-  youtube:                  # https://www.youtube.com/@<username>
-  tiktok:                   # https://www.tiktok.com/@<username>
-  snapchat:                 # https://www.snapchat.com/add/<username>
-  twitch:                   # https://www.twitch.tv/<username>
-
+                         # https://vk.com/<username>
+  
 profile:
   show: true
   order: 1
