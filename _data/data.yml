@@ -52,7 +52,19 @@ profile:
     - Dr. Hadi Farahani
 
 
-
+experience:
+  show: true
+  order: 2
+  title: Teaching Experience
+  description: |
+    University-level teaching.
+  items:
+    - company: Shahid Beheshti University
+      date: 2025 – Present
+      position: Lecturer
+      description: |
+        - "Database"
+        - "Technical Analysis"
 
 
 skill:
