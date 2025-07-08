@@ -7,7 +7,7 @@ basic:
   title: Deep Learning Researcher          # job title 
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.jpg # file path or link to your avatar
+    path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
   
@@ -51,7 +51,7 @@ profile:
     - **Fatemeh Sadat Masoumi** ([University of Texas at San Antonio](https://scholar.google.com/citations?user=2uS4LM0AAAAJ&hl=en)) 
     - **Dr. Hadi Farahani** ([Assistant Professor, Shahid Beheshti University](https://scholar.google.com/citations?hl=en&user=N4TgzzoAAAAJ))
     - **Ruizhi (Melody) Ou** ([M.S., Computer Science, Boston University](https://www.bu.edu/cbr/profile/ruizhi-melody-ou/))
-    - **Jafar Razmara** ([Associate Professor, University of Tabriz](https://scholar.google.com/citations?user=zCh6xQMAAAAJ&hl=en))
+    - **Dr. Jafar Razmara** ([Associate Professor, University of Tabriz](https://scholar.google.com/citations?user=zCh6xQMAAAAJ&hl=en))
 experience:
   show: true
   order: 2
