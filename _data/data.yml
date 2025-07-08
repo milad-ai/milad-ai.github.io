@@ -61,7 +61,10 @@ skill:
     - name: Programming
       item:
         - Python
-        - SQL
+    - name: Database
+      item:
+        - PostgreSQL
+        - DuckDB
     - name: Techniques
       item:
         - Deep Learning
@@ -125,6 +128,7 @@ certificate:
       description: |
 
 
+
 publication:
   show: true
   order: 7
@@ -140,6 +144,14 @@ publication:
       #conference: Foobar, 2019
       link: https://arxiv.org/pdf/2109.07680
 
+coauthors:
+  show: true
+  order: 8
+  title: Co-authors
+  description: |
+    - Fatemeh Sadat Masoumi
+    - Dr. Reza Rawassizadeh
+    - Dr. Hadi Farahani
 
 language:
   show: true
