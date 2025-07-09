@@ -177,7 +177,7 @@ certificate:
     - name: Mathematics for Machine Learning: Linear Algebra
       issuer: Coursera || Imperial College London
       date: Jun 2021
-      link: 'https://www.coursera.org/api/certificate.v1/pdf/H55WGEUE9JNV'
+      link: 'https://www.coursera.org/account/accomplishments/certificate/H55WGEUE9JNV'
       description: |
 publication:
   show: true
