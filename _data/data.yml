@@ -188,10 +188,10 @@ publication:
  
   items:
     - title: Augmenting Vision-Based Human Pose Estimation with Rotation Matrix
-      authors: Vazan, Milad, Fatemeh Sadat Masoumi, Ruizhi Ou, and Reza Rawassizadeh
+      authors: Milad Vazan, Fatemeh Sadat Masoumi, Ruizhi Ou, and Reza Rawassizadeh
       link: 'https://arxiv.org/pdf/2310.06068'
     - title: Jointly modeling aspect and polarity for aspect-based sentiment analysis in persian reviews
-      authors: Vazan, Milad, and Jafar Razmara
+      authors: Milad Vazan, and Jafar Razmara
       link: https://arxiv.org/pdf/2109.07680
     - title: Leveraging LDA Feature Extraction to Augment Human Activity Recognition Accuracy
       authors: Milad Vazan, Elaheh Sharifi, Hadi Farahani, Sadegh Madadi
