@@ -59,7 +59,7 @@ experience:
   description: |
   items:
     - company: Shahid Beheshti University
-      date: 2025 – Present
+      date: Spring 2025
       position: Lecturer
       description: |
         - [Database](https://dbsbu.github.io)
@@ -192,8 +192,10 @@ publication:
       link: 'https://arxiv.org/pdf/2310.06068'
     - title: Jointly modeling aspect and polarity for aspect-based sentiment analysis in persian reviews
       authors: Vazan, Milad, and Jafar Razmara
-      #conference: Foobar, 2019
       link: https://arxiv.org/pdf/2109.07680
+    - title: Leveraging LDA Feature Extraction to Augment Human Activity Recognition Accuracy
+      authors: Milad Vazan, Elaheh Sharifi, Hadi Farahani, Sadegh Madadi
+      link: https://www.techrxiv.org/users/795985/articles/1117234/master/file/data/samplepaper/samplepaper.pdf
 
 
 
