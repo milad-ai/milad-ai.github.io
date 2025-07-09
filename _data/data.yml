@@ -96,24 +96,31 @@ skill:
       item:
         - PostgreSQL
         - DuckDB
-    - name: Techniques
+    - name: Machine Learning Expertise
       item:
-        - Deep Learning
-        - Machine Learning Algorithms
+        - Deep Learning Architectures (CNNs, RNNs, Transformers)
+        - Machine Learning Algorithms (Supervised/Unsupervised)
+        - Model Optimization & Hyperparameter Tuning
     - name: Hard Skills
       item:
         - Predictive Modeling
-    - name: Data analysis
+    - name: Data Science Stack
       item:
-        - Numpy
-        - Pandas
-        - matplotlib
-    - name: Machine Learning
-      item:
+        - NumPy/Pandas (Data Manipulation)
+        - Matplotlib/Seaborn (Data Visualization)
         - Scikit-learn
-        - Keras
-        - PyTorch
-
+    - name: Deep Learning Frameworks
+      item:
+        - PyTorch (Advanced)
+        - Keras/TensorFlow
+    - name: Research & Development
+      item:
+        - Academic Publication Experience
+        - Experimental Design
+    - name: Additional Technical Skills
+      item:
+        - Git Version Control
+        - Docker Containers
 education:
   show: true
   order: 5
