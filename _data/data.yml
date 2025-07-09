@@ -66,7 +66,7 @@ experience:
         - [Technical Analysis](https://ta-sbu.github.io)
 
 
-projects:
+project:
   show: true
   order: 3  
   title: Projects
