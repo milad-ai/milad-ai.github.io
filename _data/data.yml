@@ -73,6 +73,19 @@ experience:
         - Principles of Computer Systems 
         - Theory of Languages and Automata
         - Principles of Data Science
+    - company: Kashmar Institute of Higher Education
+      date: Fall 2022
+      position: Lecturer
+      description: |
+        - Artificial intelligence and Expert Systems 
+        - Computer Architecture 
+    - company: Islamic Azad University, Bardaskan Branch
+      date: Fall 2022
+      position: Lecturer
+      description: |
+        - Artificial intelligence and Expert Systems 
+        - Computer Architecture 
+        - Data Structures and Algorithms 
 
 
 project:
