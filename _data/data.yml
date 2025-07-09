@@ -101,9 +101,11 @@ skill:
         - Deep Learning Architectures (CNNs, RNNs, Transformers)
         - Machine Learning Algorithms (Supervised/Unsupervised)
         - Model Optimization & Hyperparameter Tuning
-    - name: Hard Skills
+    - name: Professional Skills
       item:
-        - Predictive Modeling
+        - Problem Solving & Critical Thinking
+        - Data Modeling & Feature Engineering
+        - Model Deployment & Productionization
     - name: Data Science Stack
       item:
         - NumPy/Pandas (Data Manipulation)
