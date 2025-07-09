@@ -140,33 +140,28 @@ certificate:
       date: June 2021
       link: 'https://www.coursera.org/account/accomplishments/certificate/NA3JE479XZXL'
       description: |
-
-      - name: Advanced Algorithms and Complexity
+    - name: Advanced Algorithms and Complexity
       issuer: Coursera || University of California, San Diego
       date: Jul 2021
       link: 'https://www.coursera.org/account/accomplishments/certificate/AFDWX8YN723G'
       description: |
-
-      - name: Intro to Analytic Thinking, Data Science, and Data Mining
+    - name: Intro to Analytic Thinking, Data Science, and Data Mining
       issuer: Coursera || UC Irvine
       date: Jul 2021
       link: 'https://www.coursera.org/account/accomplishments/certificate/FAEBN5UZ2EHL'
       description: |
-
-      - name: Natural Language Processing
+    - name: Natural Language Processing
       issuer: Coursera || International School of Economics KAZGUU - ISE KAZGUU
       date: Jul 2021
       link: 'https://www.coursera.org/account/accomplishments/certificate/3Y6PQR7CR2BH'
       description: |
-
-      - name: Math Skills Data Science
-      issuer: Coursera ||  Duke University
+    - name: Math Skills Data Science
+      issuer: Coursera || Duke University
       date: Jun 2021
       link: 'https://www.coursera.org/account/accomplishments/certificate/UKQZCEZ46P9Y'
       description: |
-      
-      - name: Mathematics for Machine Learning: Linear Algebra
-      issuer: Coursera ||   Imperial College London
+    - name: Mathematics for Machine Learning: Linear Algebra
+      issuer: Coursera || Imperial College London
       date: Jun 2021
       link: 'https://www.coursera.org/api/certificate.v1/pdf/H55WGEUE9JNV'
       description: |
