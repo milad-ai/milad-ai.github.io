@@ -64,6 +64,15 @@ experience:
       description: |
         - [Database](https://dbsbu.github.io)
         - [Technical Analysis](https://ta-sbu.github.io)
+    - company: Kashmar Institute of Higher Education
+      date: Spring 2023
+      position: Lecturer
+      description: |
+        - Data Structures and Algorithms 
+        - Computer Architecture 
+        - Principles of Computer Systems 
+        - Theory of Languages and Automata
+        - Principles of Data Science
 
 
 project:
