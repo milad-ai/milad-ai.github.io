@@ -66,6 +66,20 @@ experience:
         - [Technical Analysis](https://ta-sbu.github.io)
 
 
+projects:
+  show: true
+  order: 3  
+  title: Projects
+  description: |
+  items:
+    - name: SQLite Query Executor (Firefox Extension)
+      date: 2025
+      link: 'https://addons.mozilla.org/ru/firefox/addon/sqlite-query-executor/'
+      description: |
+        - Developed a Firefox extension for executing SQL queries on SQLite databases
+        - Provides a user-friendly interface for database management
+        - Used by developers and data analysts for quick database operations
+
 skill:
   show: true
   order: 4
