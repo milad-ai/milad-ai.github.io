@@ -96,7 +96,7 @@ project:
   items:
     - name: SQLite Query Executor (Firefox Extension)
       date: 2025
-      link: 'https://addons.mozilla.org/ru/firefox/addon/sqlite-query-executor/'
+      link: 'https://addons.mozilla.org/en-US/firefox/addon/sqlite-query-executor/'
       description: |
         - This extension has been developed for the Database course at the Faculty of Mathematical Sciences, Shahid Beheshti University.
         - Developed a Firefox extension for executing SQL queries on SQLite databases
