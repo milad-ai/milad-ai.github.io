@@ -211,6 +211,41 @@ certificate:
       date: Jun 2021
       link: 'https://www.coursera.org/account/accomplishments/certificate/H55WGEUE9JNV'
       description: |
+
+    - name: "Introduction to Data Science in Python"
+      issuer: Coursera || University of Michigan
+      date: Jun 2021
+      link: 'https://coursera.org/verify/CUCUXG96KCF9'
+      description: |
+    - name: "Machine Learning"
+      issuer: Coursera || Stanford University
+      date: May 2021
+      link: 'https://coursera.org/verify/4F7YPUV9BDN7'
+      description: |
+    - name: "Data Science Math Skills"
+      issuer: Coursera || Duke University
+      date: Jun 2021
+      link: 'https://coursera.org/verify/UKQZCEZ46P9Y'
+      description: |
+    - name: "Advanced Algorithms and Complexity"
+      issuer: Coursera || University of California San Diego
+      date: Jun 2021
+      link: 'https://coursera.org/verify/AFD WX8YN723G'
+      description: |
+    - name: "Machine Learning With Big Data"
+      issuer: Coursera || University of California San Diego
+      date: Jul 2021
+      link: 'https://coursera.org/verify/LR4XH6FYREVP'
+      description: |
+    - name: "Introduction to Big Data"
+      issuer: Coursera || University of California San Diego 
+      date: Jul 2021
+      link: 'https://coursera.org/verify/5HQARFFPRQLW'
+      description: |
+
+
+
+
 publication:
   show: true
   order: 7
